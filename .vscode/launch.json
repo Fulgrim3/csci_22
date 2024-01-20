@@ -4,7 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "sample_problems.Hello",
+            "projectName": "cscie-22_93c707ad"
+        },
         {
             "type": "java",
             "name": "Current File",

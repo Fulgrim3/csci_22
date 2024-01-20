@@ -6,7 +6,7 @@ public class ChangeAdder {
         int pennies = 6;
 
         int cents;
-        int cents = 25*quarters + 10*dimes + 5*nickels + pennies;
-        System.out.println("total in cents is:" + cents);
+        cents  = 25*quarters + 10*dimes + 5*nickels + pennies;
+        System.out.println("total in cents is: " + cents);
     }
 }

@@ -1,4 +1,4 @@
-package sample_problems;
+package youtube;
 public class ChangeAdder { 
     public static void main(String[] args) {
         int quarters = 10;

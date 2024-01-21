@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "youtube.Hello",
+            "projectName": "cscie-22_93c707ad"
+        },
+        {
+            "type": "java",
+            "name": "GradeCalculator",
+            "request": "launch",
+            "mainClass": "youtube.GradeCalculator",
+            "projectName": "cscie-22_93c707ad"
+        },
+        {
+            "type": "java",
             "name": "GradeCalculator",
             "request": "launch",
             "mainClass": "sample_problems.GradeCalculator",

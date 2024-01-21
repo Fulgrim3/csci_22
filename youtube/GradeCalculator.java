@@ -1,4 +1,4 @@
-package sample_problems;
+package youtube;
 public class GradeCalculator {
     public static void main(String[] args) {
         int avg = 85; 

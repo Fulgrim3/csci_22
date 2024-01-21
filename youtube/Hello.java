@@ -1,8 +1,8 @@
-package sample_problems;
+package youtube;
 
 public class Hello {
     public static void main(String[] args) {
-        String x = "Hello fuck fuck my ass"; 
+        String x = "Hello java"; 
         System.out.println(x);
     }
 }

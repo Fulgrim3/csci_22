@@ -1,3 +1,4 @@
+package sample_problems;
 public class GradeCalculator {
     public static void main(String[] args) {
         int avg = 85; 

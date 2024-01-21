@@ -8,6 +8,6 @@ public class ChangeAdder {
 
         int cents;
         cents  = 25*quarters + 10*dimes + 5*nickels + pennies;
-        System.out.println("total in cents is: " + cents);
+        System.out.println("total in .java cents is: " + cents);
     }
 }

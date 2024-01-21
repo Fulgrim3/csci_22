@@ -1,5 +1,5 @@
 package sample_problems;
 
-public class gradecalc {
+public class sample1 copy {
     
 }

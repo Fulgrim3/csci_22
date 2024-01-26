@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayBag",
+            "request": "launch",
+            "mainClass": "section1.ArrayBag",
+            "projectName": "cscie-22_93c707ad"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBag",
+            "request": "launch",
+            "mainClass": "sections.ArrayBag",
+            "projectName": "cscie-22_93c707ad"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "pset0.HelloWorld",
+            "projectName": "cscie-22_93c707ad"
+        },
+        {
+            "type": "java",
             "name": "Hello",
             "request": "launch",
             "mainClass": "youtube.Hello",

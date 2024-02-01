@@ -8,6 +8,13 @@
             "type": "java",
             "name": "ArrayBag",
             "request": "launch",
+            "mainClass": "sections.section1.ArrayBag",
+            "projectName": "cscie-22_93c707ad"
+        },
+        {
+            "type": "java",
+            "name": "ArrayBag",
+            "request": "launch",
             "mainClass": "section1.ArrayBag",
             "projectName": "cscie-22_93c707ad"
         },
